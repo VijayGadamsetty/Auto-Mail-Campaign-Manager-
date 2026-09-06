@@ -62,11 +62,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Contributors
-
-<a href="https://github.com/BeyonderSS/automail-campaign-manager/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BeyonderSS/automail-campaign-manager" />
-</a>
 
 ## License
 
